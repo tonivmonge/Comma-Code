@@ -8,8 +8,6 @@ a = [1, 2, 3, 4, 5]
 b = ['Hi', 'Hola', 'Hallo', 'Ciao']
 c = ['One', 'Two', 1, 2]
 
-
-
 # Create the function.
 def commaCode(list):
     list.insert(-1, 'and')    # Insert the string 'and' before the last item of the list.
